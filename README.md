@@ -1,6 +1,6 @@
 # Chrome Usernames 4-Shield Extension
 
-![Chrome Usernames Extension](extension_screenshot.png)
+<img src="extension_screenshot.png" alt="Chrome Usernames Extension" width="400">
 
 ## Description
 
